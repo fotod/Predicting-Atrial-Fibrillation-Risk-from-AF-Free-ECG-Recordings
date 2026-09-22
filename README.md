@@ -9,7 +9,7 @@ distinguish patients with paroxysmal AF (PAF) from patients without AF, using
 
 **Thesis (DiVA):** [Malmö University, 2026](https://urn.kb.se/resolve?urn=urn:nbn:se:mau:diva-88253)
 
-**Two-page project summary:** [Project_Summary.docx](Project_Summary.docx)
+**Two-page project summary:** [AF_Prediction_Project_Summary.docx](AF_Prediction_Project_Summary.docx)
 
 ## Contents
 
